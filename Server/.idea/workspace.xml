@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebf7740e-6cf6-422a-a9cd-bac95000c234" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/output1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/output2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/output3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/output4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/output5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/output6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/output7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/mapjfx-demo/src/main/java/com/sothawo/mapjfxdemo/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/mapjfx-demo/src/main/java/com/sothawo/mapjfxdemo/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/mapjfx-demo/target/classes/com/sothawo/mapjfxdemo/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/mapjfx-demo/target/classes/com/sothawo/mapjfxdemo/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28sWWA9jPirX4QWOmoHVFJ0BXJu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/ProgramareAvansata/ProiectPA/Server/src/main/resources",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3321839",
+    "settings.editor.selected.configurable": "JavaScript.Libraries"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\ProgramareAvansata\ProiectPA\Server\src\main\resources" />
+      <recent name="C:\Users\Admin\Documents\GitHub\ProgramareAvansata\ProiectPA\Server\src\main\java\models" />
+      <recent name="C:\Users\Admin\Documents\GitHub\ProgramareAvansata\ProiectPA\Server\src\main\java\repo" />
+      <recent name="C:\Users\Admin\Documents\GitHub\ProgramareAvansata\ProiectPA\Server\src\main\java\utils" />
+      <recent name="C:\Users\Admin\Documents\GitHub\ProgramareAvansata\ProiectPA\Server\src\main\java\server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\ProgramareAvansata\ProiectPA\Server\src\main\resources\META-INF" />
+      <recent name="C:\Users\Admin\Documents\GitHub\ProgramareAvansata\Week10\Server\src\main\java" />
+      <recent name="C:\Users\Admin\Documents\GitHub\ProgramareAvansata\Week10\Server\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DirectedGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.DirectedGraph" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Server" />
+      <module name="Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DirectedGraph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebf7740e-6cf6-422a-a9cd-bac95000c234" name="Changes" comment="" />
+      <created>1652005804937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652005804937</updated>
+      <workItem from="1652005806647" duration="8412000" />
+      <workItem from="1652018345704" duration="1673000" />
+      <workItem from="1652025825757" duration="4050000" />
+      <workItem from="1652078288133" duration="3117000" />
+      <workItem from="1652171764317" duration="2021000" />
+      <workItem from="1652526184986" duration="19910000" />
+      <workItem from="1652708796440" duration="975000" />
+      <workItem from="1652710521158" duration="4876000" />
+      <workItem from="1652775518658" duration="1634000" />
+      <workItem from="1653204380722" duration="3135000" />
+      <workItem from="1653293196859" duration="1150000" />
+      <workItem from="1653747543540" duration="62000" />
+      <workItem from="1653747616961" duration="4904000" />
+      <workItem from="1653755818916" duration="20000" />
+      <workItem from="1653808601485" duration="14994000" />
+      <workItem from="1653830926739" duration="822000" />
+      <workItem from="1653838033271" duration="4808000" />
+      <workItem from="1653923246215" duration="4517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

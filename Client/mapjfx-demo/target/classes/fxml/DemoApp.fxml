@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import com.sothawo.mapjfx.MapView?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0"
+            prefWidth="1200.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.sothawo.mapjfxdemo.Controller">
+    <center>
+        <MapView fx:id="mapView" BorderPane.alignment="CENTER"/>
+    </center>
+    <right>
+        <Accordion fx:id="rightControls" BorderPane.alignment="CENTER">
+            <panes>
+                <TitledPane fx:id="optionsLocations" animated="true" text="locations">
+                    <content>
+                        <VBox spacing="10.0">
+                            <children>
+                                <Button fx:id="buttonRodeo" text="Rodeo Beverly Hills" maxWidth="Infinity"/>
+                                <Button fx:id="buttonHotel" text="Hotel Beverly Hills" maxWidth="Infinity"/>
+                                <Button fx:id="buttonMansion" text="Greystone Mansion" maxWidth="Infinity"/>
+                                <Button fx:id="buttonLaBreaTarPits" text="La Brea Tar Pits" maxWidth="Infinity"/>
+                            </children>
+                        </VBox>
+                    </content>
+                </TitledPane>
+            </panes>
+        </Accordion>
+    </right>
+</BorderPane>
